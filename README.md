@@ -1,5 +1,5 @@
 # pogo
-MIT Hackathon project correlating social media discussion with consumer behavior.
+MIT Hackathon project correlating social media discussion with consumer behavior. This team project won the first place of the 24-hour Hackathon organized by Data Analytics Club at MIT School of Magenment.
 
 # Overview
 Pogo is a simple project to explore the relationship between consumer sentiment about products, as expressed in the natural language text of product reviews, Twitter feeds and NYTimes articles with the explicit product ratings on Best Buy.  This is a team project for the MIT Hackathon at the Hack/Reduce space in Cambridge, MA in March 2015.  
