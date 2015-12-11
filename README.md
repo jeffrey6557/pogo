@@ -1,5 +1,5 @@
 # pogo
-2015 MIT Big Data Hackathon project: a real-time analytics web interface correlating social media discussion with consumer behavior. This team project won the first place of the Big Data Hackathon: https://bigdatahackathon.wordpress.com/ideas-team-formation/.
+2015 MIT Big Data Hackathon project: a real-time analytics web interface correlating social media discussion with consumer behavior. This team project was done in less than 12 hours and won the first place of the Big Data Hackathon: https://bigdatahackathon.wordpress.com/ideas-team-formation/.
 
 # Overview
 Pogo is a simple project to explore the relationship between consumer sentiment about products, as expressed in the natural language text of product reviews, Twitter feeds and NYTimes articles with the explicit product ratings on Best Buy.  This is a team project for the MIT Hackathon at the Hack/Reduce space in Cambridge, MA in March 2015.  
